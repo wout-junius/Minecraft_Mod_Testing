@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mod.iml" filepath="$PROJECT_DIR$/mod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod_main.iml" group="mod" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod_test.iml" group="mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minecraft_Mod_Testing.iml" filepath="$PROJECT_DIR$/.idea/modules/Minecraft_Mod_Testing.iml" group="Minecraft_Mod_Testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minecraft_Mod_Testing_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minecraft_Mod_Testing_main.iml" group="Minecraft_Mod_Testing" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minecraft_Mod_Testing_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minecraft_Mod_Testing_test.iml" group="Minecraft_Mod_Testing" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "firstmod:cookedbeefblock"
+    }
+  },
+  "result": {
+    "item": "minecraft:cooked_beef",
+    "count": 9
+  }
+}

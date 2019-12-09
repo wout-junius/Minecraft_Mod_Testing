@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Minecraft_Mod_Testing_main" target="1.8" />
+      <module name="Minecraft_Mod_Testing_test" target="1.8" />
       <module name="mod_main" target="1.8" />
       <module name="mod_test" target="1.8" />
     </bytecodeTargetLevel>
