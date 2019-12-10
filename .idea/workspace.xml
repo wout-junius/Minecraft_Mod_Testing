@@ -4,6 +4,7 @@
     <list default="true" id="a8c7a321-2c16-4346-8a66-f6c35255ad4b" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +27,17 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Minecraft_Mod_Testing" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Minecraft_Mod_Testing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Minecraft_Mod_Testing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="fg_runs" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -50,6 +62,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="Minecraft_Mod_Testing_main/invalid/Minecraft" />
+      <facet id="Minecraft_Mod_Testing_test/invalid/Minecraft" />
+    </ignored-facets>
   </component>
   <component name="ProjectId" id="1Ul192bVFsR947propWY0RvYB5v" />
   <component name="ProjectLevelVcsManager">
@@ -91,6 +109,18 @@
       <recent name="C:\Users\wout\IdeaProjects\Last hope Mod\mod\src\main\resources\assets\firstmod\models\item" />
       <recent name="C:\Users\wout\IdeaProjects\Last hope Mod\mod\src\main\resources\assets\firstmod\models\block" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Gradle.mod [runClient]">
     <configuration default="true" type="Application" factoryName="Application">
@@ -167,18 +197,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\wout\AppData\Roaming\Subversion</configuration>
   </component>
@@ -193,8 +211,12 @@
       <workItem from="1575916990622" duration="85000" />
       <workItem from="1575917196854" duration="584000" />
       <workItem from="1575917798753" duration="254000" />
+      <workItem from="1575987701150" duration="1086000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.json" />
